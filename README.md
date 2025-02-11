@@ -1,5 +1,4 @@
 # AI-TicTacToe
-# AI-TicTacToe
 
 AI-TicTacToe is a Python-based implementation of the classic Tic-Tac-Toe game, featuring an AI opponent that utilizes the Minimax algorithm with Alpha-Beta Pruning for optimal decision-making.
 
@@ -71,5 +70,5 @@ AI-TicTacToe/
 This project is open-source and available under the MIT License.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile]([https://github.com/julian3sp])
 
