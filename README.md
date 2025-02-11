@@ -27,7 +27,7 @@ python --version
    ```
 3. Run the script:
    ```sh
-   python ai_tictactoe.py
+   python jrespinal.py
    ```
 
 ## How to Play
